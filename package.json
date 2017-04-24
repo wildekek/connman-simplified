@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "connman-api": "^0.3.3",
+    "connman-api": "git+ssh://git@github.com/wildekek/connman-api",
     "debug": "^2.1.0",
     "keypress": "^0.2.1",
     "ms": "^0.7.0"
